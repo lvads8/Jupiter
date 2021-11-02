@@ -1,0 +1,135 @@
+{
+  "name": "Richárd Zsiray",
+  "programme": "Computer Science Bsc",
+  "school": "ELTE-SEK",
+  "faculty": "IK-SEK",
+  "timetable": [
+    [
+      {
+        "key": "Progalap EA",
+        "start": "10:00",
+        "end": "11:30",
+        "room": "SB-2-09",
+        "teacher": "Bencsik Gergely"
+      },
+      {
+        "key": "Progalap GY",
+        "start": "12:00",
+        "end": "14:15",
+        "room": "SB-A-02",
+        "teacher": "Bencsik Gergely"
+      },
+      {
+        "key": "Elektro EA",
+        "start": "14:30",
+        "end": "16:00",
+        "room": "SB-2-09",
+        "teacher": "Dr. Nemes József"
+      },
+      {
+        "key": "Elektro GY",
+        "start": "18:15",
+        "end": "19:00",
+        "room": "SB-2-08",
+        "teacher": "Dr. Nemes József"
+      }
+    ],
+    [],
+    [
+      {
+        "key": "Dimat EA",
+        "start": "8:30",
+        "end": "10:45",
+        "room": "SB-2-09",
+        "teacher": "Farkas Gábor"
+      },
+      {
+        "key": "Mobil GY",
+        "start": "13:15",
+        "end": "14:45",
+        "room": "SB-A-02",
+        "teacher": "Koncz Adrienn"
+      },
+      {
+        "key": "Inno EA+GY",
+        "start": "15:00",
+        "end": "17:00",
+        "room": "SB-2-09",
+        "teacher":"Koncz Adrienn"
+      }
+    ],
+    [
+      {
+        "key": "Számarch EA",
+        "start": "12:20",
+        "end": "13:30",
+        "room": "SB-2-09",
+        "teacher": "Izsák Rudolf"
+      },
+      {
+        "key": "Számarch GY",
+        "start": "14:20",
+        "end": "15:30",
+        "room": "SB-2-09",
+        "teacher": "Izsák Rudolf"
+      }
+    ],
+    [
+      {
+        "key": "Dimat GY",
+        "start": "8:30",
+        "end": "10:15",
+        "room": "SB-2-09",
+        "teacher":"Farkas Gábor"
+      },
+      {
+        "key": "Tanmódszertan",
+        "start": "11:00",
+        "end": "11:45",
+        "room": "SB-2-07",
+        "teacher": "Soós Sándor"
+      },
+      {
+        "key": "Számtud EA",
+        "start": "12:20",
+        "end": "13:30",
+        "room": "SB-2-09",
+        "teacher": "Izsák Rudolf"
+      },
+      {
+        "key": "Számtud GY",
+        "start": "14:20",
+        "end": "15:30",
+        "room": "SB-2-09",
+        "teacher": "Izsák Rudolf"
+      }
+    ]
+  ],
+  "grades": [
+    {
+      "key": "Progalap",
+      "grades": [
+        {
+          "key": "KisZh 1",
+          "date": "2021-10-08",
+          "mark": 5
+        },
+        {
+          "key": "KisZh 2",
+          "date": "2021-10-11",
+          "mark": 5
+        }
+      ]
+    },
+    {
+      "key": "Matalap",
+      "grades": [
+        {
+          "key": "Zh 1",
+          "date": "2021-09-23",
+          "mark": "Kiválóan megfelelt" 
+        }
+      ]
+    }
+  ]
+}
